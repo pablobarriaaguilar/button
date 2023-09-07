@@ -1,3 +1,26 @@
-body{
-    background-color: aqua;
+#search{
+    color:darkcyan;
+    border-radius: 10px;
+    border-color: darkcyan;
+    border-width: 1px;
+    width: 100px;
+    margin: 4px;
+}
+#plus{
+    background-color: darkcyan;
+    border-radius: 50%;
+    color: aliceblue;
+    border-color: darkcyan;
+    margin: 4px;
+}
+
+#create{
+    background-color:dodgerblue;
+    color: aliceblue;
+    box-shadow:3px 3px 3px black;
+    margin: 4px;
+}
+.contenedor{
+    margin: 30px;
+    
 }
